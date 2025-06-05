@@ -2,14 +2,20 @@
 
 Display Custom Post provides a simple way to show your Blog Posts or Custom Posts in any page or post by adding a simple shortcode.  
 
-#Plugin Information:
+# Plugin Information:
 
 Contributors: @dikshamishra2004
+
 Platform: WordPress
+
 Asset Type: Plugin
+
 Plugin Version: 1.0.0
+
 Tested up to Wordpress version: 6.8
+
 License: GPLv2
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 # Description:
